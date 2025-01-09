@@ -2,6 +2,7 @@
 
 ![Divider](./assets/aboutme2.gif)
 I have been coding in C++ since the age of 16.<br/>
+Come to my birthday party on 13Th January. <br/>
 As a hobby, I like to Travel, listen to music and play some games. That's pretty much it.<br/>
 <br/>
 If you wanna hire me, my timezone is IST. Shoot me an email.
