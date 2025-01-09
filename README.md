@@ -28,7 +28,6 @@ Well, I don't have to tell you all about them, but what I can tell you is that I
   <a href="#"><img alt="Shikha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znackt&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a>
 </p>
   <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Znackt&theme=dark&border_radius=5)](https://git.io/streak-stats)
   
 ![Divider](./assets/divider.png)
 
